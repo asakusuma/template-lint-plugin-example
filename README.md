@@ -1,0 +1,1 @@
+# template-lint-plugin-example
